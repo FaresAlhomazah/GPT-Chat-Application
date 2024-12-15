@@ -126,8 +126,7 @@ GPT Chat Application
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<Your-Username>/GPT-Chat.git
-   cd GPT-Chat
+   git clone https://github.com/FaresAlhomazah/GPT-Chat-Application.git
    ```
 
 2. Install dependencies:
